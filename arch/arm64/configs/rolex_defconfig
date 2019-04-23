@@ -811,3 +811,4 @@ CONFIG_ARM64=y
 #
 # Custom Hotplug drivers
 #
+CONFIG_ALUCARD_CONTROL=y
